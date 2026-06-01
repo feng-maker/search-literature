@@ -1,2 +1,2 @@
 # search-literature
-in this repository,i'll start a project to create a GUI to search literature according to your key word.it is only my homework. it don't have better practical value.
+in this repository,i'll start a project to create a GUI to search literature according to your key word.it is not only my homework. it have better practical value.
